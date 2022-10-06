@@ -4,6 +4,8 @@
 ![Linguagens](https://img.shields.io/badge/linguagens-1-blue?style=for-the-badge)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1024px-Git-logo.svg.png" alt="exemplo imagem">
+### Propósito
+Traçar uma linha do tempo da minha aprendizagem em git
 
 ### Timeline
 
